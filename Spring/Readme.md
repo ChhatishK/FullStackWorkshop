@@ -1,5 +1,10 @@
 **Working with Spring** - 
-  
+  Open Eclipse IDE
+  1. File->New-> New project -> Name the project and package and click on the finish.
+  2. File->New->Class - > Class name -> click on the finish
+  3. File - > New -> package -> Name the package -> click on the finish.
+  4. File -> New -> File -> Name the xml file "applicationContext.xml" -> click on the finish.
+  5. 5. Start with first Java class.
 
 **Spring Container** -> 
   It is the heart of the Spring.  
