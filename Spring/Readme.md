@@ -13,4 +13,13 @@
   To access the object we need Application Context(New) or BeanFactory(Old).
   Application Context is an interface.
   Application Context need various JAR file to access the objects.
+
+**Required JAR files -**
+  1. spring-aop
+  2. spring-beans
+  3. spring-context
+  4. commons-logging
+  5. spring-core
+  6. spring-expression
+  
    
