@@ -23,3 +23,10 @@
   6. spring-expression
   
    
+**Dependencies Injection - **
+1. Dependency Injection is a design pattern used in the Spring Framework to achieve Injection of Control(IoC)
+2. Its main task is to inject the dependencies, means injeting one object (a dependency) into another object
+3. We can achieve Dependency Inject by 2 ways ->
+     1. Setter Method DI
+     2. Constructor DI
+  
